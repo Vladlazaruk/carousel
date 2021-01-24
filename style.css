@@ -1,0 +1,35 @@
+.color_1{
+    min-width: 300px;
+    height: 200px;
+    background-color:pink;
+}
+.color_2{
+    min-width: 300px;
+    height: 200px;
+    background-color:orange;
+}
+.color_3{
+    min-width: 300px;
+    height: 200px;
+    background-color:aqua;
+}
+.color_4{
+    min-width: 300px;
+    height: 200px;
+    background-color:aquamarine;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 600px;
+}
+.slider_container{
+    overflow: hidden;
+    background-color:red;
+}
+.slider_treck{
+    display: flex;
+    background-color:green;
+}
+.nav_btn{
+    text-align: center;
+}
